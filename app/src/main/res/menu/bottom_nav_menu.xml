@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_hewan"
+        android:icon="@drawable/ic_paw"
+        android:title="@string/animals" />
+    <item
+        android:id="@+id/nav_tumbuhan"
+        android:icon="@drawable/ic_leaf"
+        android:title="@string/plants" />
+</menu>

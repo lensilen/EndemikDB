@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EndemikDB</string>
+    <string name="student_identity">Benita Aryani - 2410501023</string>
+    <string name="all_regions">Semua region</string>
+    <string name="all_types">Semua kategori</string>
+    <string name="animals">Hewan</string>
+    <string name="plants">Tumbuhan</string>
+</resources>
