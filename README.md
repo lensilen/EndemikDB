@@ -19,7 +19,7 @@ EndemikDB adalah aplikasi Android native Java/XML untuk menampilkan data hewan d
 - Tema light dan dark mode.
 - Popup profile berisi identitas dan foto.
 
-## Teknologi
+## Tech
 
 - Android native Java/XML
 - Room
@@ -79,10 +79,4 @@ Hasil pencarian tetap tampil dalam bentuk grid dan mendukung keyboard input di p
 
 ```powershell
 .\gradlew.bat assembleDebug
-```
-
-APK debug akan dibuat di:
-
-```text
-app/build/outputs/apk/debug/app-debug.apk
 ```
