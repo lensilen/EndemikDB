@@ -5,4 +5,9 @@
         <item name="android:includeFontPadding">true</item>
         <item name="android:fontFamily">sans</item>
     </style>
+
+    <style name="CircleImage">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
 </resources>
